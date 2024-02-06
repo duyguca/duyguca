@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Duygu
 Front End Web Developer
 
-
-
 Transitioning from math to coding has been thrilling. With a solid math background, I enjoy learning languages like JavaScript and frameworks like React, React Native, and Next.js. I've worked on various projects, creating user-friendly interfaces and developing fast web and mobile apps. Eager to learn and adapt, I excel in dynamic, collaborative environments, delivering impactful solutions. I'm excited about new connections and job opportunities.
 
 - Personal website [link](https://portfolio.duygukoksal.com/)
@@ -19,12 +17,8 @@ Transitioning from math to coding has been thrilling. With a solid math backgrou
 
 
 
-<br><br>
-## Examples of Work
+### 📁 Examples of Work
 <img src="https://github.com/duyguca/portfolio-website/blob/main/public/image/portfolio-main.jpg" width="250"/>
 https://portfolio.duygukoksal.com/
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/duyguca)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/duygukoksalca//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio.duygukoksal.com/)  
-</br>
-</br>
+
