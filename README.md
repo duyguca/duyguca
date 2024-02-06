@@ -7,7 +7,7 @@ Transitioning from the realm of mathematics to coding has been an exhilarating j
 Skills: JAVASCRIPT / REACT / REACT NATIVE / NEXT.JS / WordPress / STORYBOOK / REST API /  MongoDB / TAILWIND / SASS / BOOTSTRAP / HTML / CSS
 
 ## Examples of Work
-<img src="https://github.com/duyguca/portfolio-website/blob/main/public/image/portfolio-main.jpg" width="250/>
+<img src="https://github.com/duyguca/portfolio-website/blob/main/public/image/portfolio-main.jpg" width="250"/>
 https://portfolio.duygukoksal.com/
 
 
