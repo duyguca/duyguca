@@ -15,9 +15,32 @@ Transitioning from the realm of mathematics to coding has been an exhilarating j
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+<br>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=duyguca&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=duyguca&theme=dark&hide_border=false" /> 
+</td>
 
-Skills: JAVASCRIPT / REACT / REACT NATIVE / NEXT.JS / WordPress / STORYBOOK / REST API /  MongoDB / TAILWIND / SASS / BOOTSTRAP / HTML / CSS
+<td width="50%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=duyguca&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+- Personal website [link](https://portfolio.duygukoksal.com/)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://duygukoksal.com/duygu-koksal-resume.pdf)
+
+<br><br>
 ## Examples of Work
 <img src="https://github.com/duyguca/portfolio-website/blob/main/public/image/portfolio-main.jpg" width="250"/>
 https://portfolio.duygukoksal.com/
