@@ -25,7 +25,7 @@ Transitioning from the realm of mathematics to coding has been an exhilarating j
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=duyguca&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=duyguca&theme=dark&hide_border=false" /> 
+
 </td>
 
 <td width="50%" align="center">
