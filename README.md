@@ -14,7 +14,7 @@ Transitioning from the realm of mathematics to coding has been an exhilarating j
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=duyguca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=duyguca&theme=dark&hide_border=false)<br/>
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyguca&layout=compact&theme=radical" />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duyguca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 - Personal website [link](https://portfolio.duygukoksal.com/)
